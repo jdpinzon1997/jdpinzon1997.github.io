@@ -1,0 +1,4 @@
+Contact: mailto:davidjp1997@gmail.com
+Expires: 2027-11-06T00:00:00.000Z
+Preferred-Languages: es, en
+Canonical: https://jdpinzon1997.github.io/.well-known/security.txt
